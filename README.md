@@ -39,7 +39,7 @@ Portrait only. In landscape it pauses itself and comes back when you rotate.
 
 ## Usage
 
-- Tap a cover to open the book. Use the arrows to move through the library (for the recent book cover tap the text or the loading bar instead, the cover tap is disabled to allow gestures in that corner).
+- Tap a cover to open the book. Use the arrows to move through the library (for the recent book cover, tap the text or the loading bar instead, the cover tap is disabled to allow gestures in that corner).
 
 - Hold on an empty spot to add a window. Hold on a window to move, resize or close it. 
 
