@@ -22,6 +22,7 @@ Portrait only. In landscape it pauses itself and comes back when you rotate.
     </td>
   </tr>
 </table>
+
 ## Features
 
 - Current book card with cover, title and progress
